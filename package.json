@@ -1,0 +1,20 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Мой первый проект на Хекслете",
+  "homepage": "https://github.com/AlbertSyberia/hexlet-js#readme",
+  "bugs": {
+    "url": "https://github.com/AlbertSyberia/hexlet-js/issues"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/AlbertSyberia/hexlet-js.git"
+  },
+  "license": "ISC",
+  "author": "Albert Syberia",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
