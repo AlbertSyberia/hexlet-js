@@ -1,5 +1,5 @@
 {
-  "name": "hexlet",
+  "name": "project",
   "version": "1.0.0",
   "description": "Мой первый проект на Хекслете",
   "homepage": "https://github.com/AlbertSyberia/hexlet-js#readme",
@@ -19,6 +19,5 @@
   },
   "dependencies": {
     "lodash": "^4.18.1"
-  },
-  "devDependencies": {}
+  }
 }
