@@ -1,5 +1,5 @@
-import last from "./src/index.js";
+import last from './src/index.js'
 
-console.log("Hello, Hexlet!");
+console.log('Hello, Hexlet!')
 
-console.log(last);
+console.log(last)

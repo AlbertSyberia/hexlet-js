@@ -23,6 +23,11 @@
     "vim-prettier": "file:../.vim/pack/plugins/start/vim-prettier"
   },
   "devDependencies": {
+    "@eslint/create-config": "^2.0.0",
+    "@eslint/js": "^10.0.1",
+    "@stylistic/eslint-plugin": "^5.10.0",
+    "eslint": "^10.4.0",
+    "globals": "^17.6.0",
     "prettier": "^3.8.3"
   }
 }
